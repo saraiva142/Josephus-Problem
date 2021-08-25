@@ -1,4 +1,4 @@
-# Josephus-Problem <img src="">
+# Josephus-Problem  <img align="right" alt="josephus" height="100" width="120" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Josephus_eng.jpg">
 
 ***João Saraiva***
 
